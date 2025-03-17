@@ -1,12 +1,54 @@
 'use strict';
 
-var Search = new Search({ keywordClassName: 'home-search-keyword' });
+var search = new Search({ url: '/search.json', keywordClassName: 'home-search-keyword' });
 var inputElement = document.getElementById('home-search-input');
+var loadingElement = document.getElementById('home-search-loading');
 var contentElement = document.getElementById('home-search-dropdown');
-var judgeTextAttr = function(element) {
+var loading = true;
+var loadingText = 'loading';
+var time = null;
+
+search.onDataLoadSucceeded = function() {
+  loading = false;
+  clearInterval(time);
+  loadingElement.style.display = 'none';
+  contentElement.style.display = 'block';
+}
+
+inputElement.addEventListener('input', function(e) {
+  if (loading) {
+    clearInterval(time);
+    loadingElement.innerText = loadingText;
+    loadingElement.style.display = 'block';
+    contentElement.style.display = 'none';
+
+    time = setInterval(function() {
+      if (loadingElement.innerText.length >= 10) {
+        loadingElement.innerText = loadingText;
+      } else {
+        loadingElement.innerText += '.';
+      }
+      if (!loading) {
+        clearInterval(time);
+        loadingElement.style.display = 'none';
+        contentElement.style.display = 'block';
+        renderSearchResult(e);
+      }
+    }, 500);
+  } else {
+    clearTimeout(time);
+    time = setTimeout(function() {
+      console.log(e)
+      renderSearchResult(e);
+    }, 300);
+  }
+});
+
+function judgeTextAttr(element) {
   return element.textContent !== undefined ? 'textContent' : 'innerText';
-};
-var renderSearchResult = function(e) {
+}
+
+function renderSearchResult(e) {
   contentElement.innerHTML = '';
 
   var event = e || window.event;
@@ -17,7 +59,7 @@ var renderSearchResult = function(e) {
     return;
   }
 
-  var searchData = Search.search(target.value);
+  var searchData = search.search(target.value);
 
   if (searchData.length > 0) {
     var listElement = document.createElement('ul');
@@ -58,19 +100,4 @@ var renderSearchResult = function(e) {
 
     contentElement.appendChild(emptyElement);
   }
-};
-
-
-var time = null;
-inputElement.addEventListener('input', function(e) {
-  clearTimeout(time);
-  time = setTimeout(function() {
-    renderSearchResult(e);
-  }, 300);
-});
-inputElement.addEventListener('keydown', function(e) {
-  var event = e || window.event;
-  if (event.keyCode === 13) {
-    renderSearchResult(e);
-  }
-});
+}

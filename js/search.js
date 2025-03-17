@@ -10,12 +10,17 @@
 
 function Search(options) {
   options = options || {};
+  this.url = options.url || '';
   this.keywordClassName = options.keywordClassName || '';
   this.keywordBeforeLength = options.keywordBeforeLength || 20;
   this.keywordAfterLength = options.keywordAfterLength || 30;
   this.ellipsis = options.ellipsis || '...';
   this.data = [];
-  this.getData();
+  this.onDataLoadSucceeded  = null;
+  this.onDataLoadFailed  = null;
+  if (this.url) {
+    this.getData();
+  }
 }
 
 Search.prototype.matchMarkdown = function() {
@@ -34,7 +39,6 @@ Search.prototype.matchMarkdown = function() {
 
 Search.prototype.getData = function() {
   var _this = this;
-  var url = '/search.json';
   var xmlhttp = null;
 
   if (window.XMLHttpRequest) {
@@ -43,17 +47,29 @@ Search.prototype.getData = function() {
     xmlhttp = new ActiveXObject('Microsoft.XMLHTTP');
   }
 
-  xmlhttp.open('get', url);
+  xmlhttp.open('get', _this.url);
   xmlhttp.send(null);
   xmlhttp.onreadystatechange = function() {
-    if (xmlhttp.readyState === 4 && xmlhttp.status === 200) {
-      var data = JSON.parse(xmlhttp.responseText);
-      var match = new RegExp(_this.matchMarkdown(), 'g');
-      for (var i = 0; i < data.length; i++) {
-        data[i].content = data[i].content.replace(match, ' ').trim();
+    if (xmlhttp.readyState === 4) {
+      switch (xmlhttp.status) {
+        case 200:
+          var data = JSON.parse(xmlhttp.responseText);
+          var match = new RegExp(_this.matchMarkdown(), 'g');
+          for (var i = 0; i < data.length; i++) {
+            data[i].content = data[i].content.replace(match, ' ').trim();
+          }
+          _this.data = data;
+          _this.onDataLoadSucceeded ? _this.onDataLoadSucceeded(data) : null;
+          break;
+
+        case 404:
+          _this.onDataLoadFailed ? _this.onDataLoadFailed() : null;
+          break;
       }
-      _this.data = data;
     }
+  };
+  xmlhttp.onerror = function(error) {
+    _this.onDataLoadFailed ? _this.onDataLoadFailed(error) : null;
   };
 };
 
