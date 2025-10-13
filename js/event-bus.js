@@ -1,0 +1,1 @@
+class EventBus{constructor(){this.events={}}on(s,t){this.events[s]||(this.events[s]=[]),this.events[s].push(t)}emit(s,...t){const e=this.events[s];e&&e.forEach(s=>{s(...t)})}off(s,t){const e=this.events[s];e&&(this.events[s]=e.filter(s=>s!==t))}once(s,t){const e=(...n)=>{t(...n),this.off(s,e)};this.on(s,e)}}
