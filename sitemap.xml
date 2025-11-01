@@ -8,753 +8,623 @@
 
 
 <url>
-  <loc>https://liuzane.github.io/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>https://liuzane.github.io/en/2025/11/01/drunk-post-things-ive-learned-as-a-sr-engineer.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/en/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://liuzane.github.io/en/2025/10/26/webpack-module-federation.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/en/archives/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://liuzane.github.io/en/2025/10/25/batch-rename-files-with-digital-serial-numbers.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/en/categories/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://liuzane.github.io/en/2025/10/13/little-thing-turned-3.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/tools/</loc>
-  <lastmod>2019-12-06T13:24:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/laboratory/</loc>
-  <lastmod>2022-04-11T15:09:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/about/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.50</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/archives/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/archives/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://liuzane.github.io/en/2025/09/05/eslint-automatic-formatting-configuration.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2025/04/04/shrimp-omelet.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2025/04/04/stir-fried-meat-with-lettuce.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2025/04/04/stir-fried-romaine.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2025/04/04/stir-fried-beef-with-celery.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2025/03/17/stir-fried-meat-with-mushrooms-and-garlic-sprouts.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2024/11/01/npm-command.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/2024/05/16/windows-powershell-assist.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/2024/05/16/windows-crate-new-powershell-window.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2024/01/25/git-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/en/2023/11/23/windows-cmd-commands.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <loc>https://liuzane.github.io/en/2023/11/23/common-system-commands.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2023/07/19/platform-engineering.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2023/07/07/will-programmers-increase.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2022/08/16/big-plate-chicken.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2022/04/10/language-tags.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/2021/10/22/npm-check-update.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2021/10/19/stewed-lamb-chop-with-mushroom.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2021/09/05/green-pepper-parch-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2021/06/14/scrambled-egg-with-tomato-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2021/04/28/javascript-document-convertions.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/12/27/fried-shrimp-with-chilli.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/12/10/local-storage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/12/10/cookies.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/12/10/javascript-utility-functions.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/12/05/sauteed-cucumber-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/11/30/celery-fried-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/11/29/scrambled-eggs-with-celery-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/11/27/hand-tore-the-chicken.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/10/31/spicy-chicken-medium-wing.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/10/31/green-vegetables-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/10/21/potato-cubes-stew-with-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2020/10/21/potato-with-meat-shreds.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/12/05/deploy-github-page.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/2019/11/13/mysql-install.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/10/31/wave-and-sky.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/10/31/gradual-jpeg.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/10/25/hen-and-front-end-engineer.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/10/22/regexp.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/09/21/vscode-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/en/2019/09/20/webstorm-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/zh/categories/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <loc>https://liuzane.github.io/tools/</loc>
+  <lastmod>2019-12-06T13:24:45+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/ja/categories/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/categories/database/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/categories/cookbooks/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/categories/javascript/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/categories/notes/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/en/categories/reprints/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <loc>https://liuzane.github.io/laboratory/</loc>
+  <lastmod>2022-04-11T15:09:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/en/categories/scripts/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <loc>https://liuzane.github.io/solar-system/</loc>
+  <lastmod>2025-10-23T03:55:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/zh/2025/11/01/drunk-post-things-ive-learned-as-a-sr-engineer.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/zh/about/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.50</priority>
+  <loc>https://liuzane.github.io/zh/2025/10/26/webpack-module-federation.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/ja/about/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.50</priority>
+  <loc>https://liuzane.github.io/zh/2025/10/25/batch-rename-files-with-digital-serial-numbers.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/zh/2025/10/13/little-thing-turned-3.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/zh/2025/09/05/eslint-automatic-formatting-configuration.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2025/04/04/shrimp-omelet.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2025/04/04/stir-fried-meat-with-lettuce.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2025/04/04/stir-fried-romaine.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2025/04/04/stir-fried-beef-with-celery.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2025/03/17/stir-fried-meat-with-mushrooms-and-garlic-sprouts.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2024/11/01/npm-command.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/2024/05/16/windows-powershell-assist.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/2024/05/16/windows-crate-new-powershell-window.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2024/01/25/git-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/zh/2023/11/23/windows-cmd-commands.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://liuzane.github.io/zh/2023/11/23/common-system-commands.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2023/07/19/platform-engineering.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2023/07/07/will-programmers-increase.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2022/08/16/big-plate-chicken.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2022/04/10/language-tags.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/2021/10/22/npm-check-update.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2021/10/19/stewed-lamb-chop-with-mushroom.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2021/09/05/green-pepper-parch-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2021/06/14/scrambled-egg-with-tomato-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2021/04/28/javascript-document-convertions.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/12/27/fried-shrimp-with-chilli.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/12/10/local-storage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/12/10/cookies.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/12/10/javascript-utility-functions.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/12/05/sauteed-cucumber-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/11/30/celery-fried-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/11/29/scrambled-eggs-with-celery-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/11/27/hand-tore-the-chicken.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/10/31/spicy-chicken-medium-wing.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/10/31/green-vegetables-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/10/21/potato-cubes-stew-with-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2020/10/21/potato-with-meat-shreds.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/12/05/deploy-github-page.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/2019/11/13/mysql-install.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/10/31/wave-and-sky.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/10/31/gradual-jpeg.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/10/25/hen-and-front-end-engineer.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/10/22/regexp.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/09/21/vscode-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/zh/2019/09/20/webstorm-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/ja/2025/11/01/drunk-post-things-ive-learned-as-a-sr-engineer.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/ja/2025/10/26/webpack-module-federation.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/ja/2025/10/25/batch-rename-files-with-digital-serial-numbers.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/ja/2025/10/13/little-thing-turned-3.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://liuzane.github.io/ja/2025/09/05/eslint-automatic-formatting-configuration.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2025/04/04/shrimp-omelet.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2025/04/04/stir-fried-meat-with-lettuce.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2025/04/04/stir-fried-romaine.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2025/04/04/stir-fried-beef-with-celery.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2025/03/17/stir-fried-meat-with-mushrooms-and-garlic-sprouts.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2024/11/01/npm-command.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/2024/05/16/windows-powershell-assist.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/2024/05/16/windows-crate-new-powershell-window.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2024/01/25/git-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/ja/2023/11/23/windows-cmd-commands.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://liuzane.github.io/ja/2023/11/23/common-system-commands.html</loc>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2023/07/19/platform-engineering.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2023/07/07/will-programmers-increase.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2022/08/16/big-plate-chicken.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2022/04/10/language-tags.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/2021/10/22/npm-check-update.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2021/10/19/stewed-lamb-chop-with-mushroom.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2021/09/05/green-pepper-parch-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2021/06/14/scrambled-egg-with-tomato-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2021/04/28/javascript-document-convertions.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/12/27/fried-shrimp-with-chilli.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/12/10/local-storage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/12/10/cookies.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/12/10/javascript-utility-functions.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/12/05/sauteed-cucumber-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/11/30/celery-fried-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/11/29/scrambled-eggs-with-celery-sausage.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/11/27/hand-tore-the-chicken.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/10/31/spicy-chicken-medium-wing.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/10/31/green-vegetables-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/10/21/potato-cubes-stew-with-meat.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2020/10/21/potato-with-meat-shreds.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/12/05/deploy-github-page.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/2019/11/13/mysql-install.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/10/31/wave-and-sky.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/10/31/gradual-jpeg.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/10/25/hen-and-front-end-engineer.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/10/22/regexp.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/09/21/vscode-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://liuzane.github.io/ja/2019/09/20/webstorm-configuration.html</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/categories/database/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <lastmod>2025-11-01T06:35:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://liuzane.github.io/zh/categories/cookbooks/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/categories/javascript/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/categories/notes/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/categories/reprints/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/zh/categories/scripts/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/categories/database/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/categories/cookbooks/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/categories/javascript/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/categories/notes/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/categories/reprints/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liuzane.github.io/ja/categories/scripts/</loc>
-  <lastmod>2025-07-04T09:13:45+00:00</lastmod>
+  <loc>https://liuzane.github.io/webpack-module-federation-demo/</loc>
+  <lastmod>2025-10-29T12:53:39+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
